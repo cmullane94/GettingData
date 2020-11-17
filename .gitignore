@@ -14,3 +14,6 @@ tl_2017_38_tract/*
 *.zip
 Happiness.csv
 
+#Ignore folders with large files
+LNDCVR_Hawaii_State_Shape
+NHD_H_Maryland_State_Shape
